@@ -1,0 +1,15 @@
+<suite name="Test Suite 1" verbose="2" parallel="true">
+
+    <test name="Login Test">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="SignUpPage Test">
+        <classes>
+            <class name="tests.SignUpPageTest"/>
+        </classes>
+    </test>
+
+</suite>
